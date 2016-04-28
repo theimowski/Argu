@@ -7,7 +7,7 @@ authors
 copyright
 	Copyright 2015
 summary
-    A declarative command line and XML configuration parser for F# applications.
+    Test paket source remote git override.
 licenseurl https://github.com/fsprojects/Argu/blob/master/License.md
 projecturl https://github.com/fsprojects/Argu
 iconurl https://avatars0.githubusercontent.com/u/6001315
