@@ -190,7 +190,7 @@ Target "Default" DoNothing
 
 "Default"
   ==> "PrepareRelease"
-  ==> "Build.Net35"
+  //==> "Build.Net35"
   ==> "NuGet"
   ==> "GenerateDocs"
   ==> "ReleaseDocs"
